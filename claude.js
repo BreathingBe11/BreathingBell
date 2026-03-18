@@ -1,1 +1,104 @@
-{"data":"PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CjxtZXRhIGNoYXJzZXQ9IlVURi04Ii8+CjxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIi8+Cjx0aXRsZT5Cb2R5LCBCdXNpbmVzcyAmYW1wOyBCZWxvbmdpbmcg4oCUIE9taSBCZWxsPC90aXRsZT4KPGxpbmsgcmVsPSJwcmVjb25uZWN0IiBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tIi8+CjxsaW5rIHJlbD0icHJlY29ubmVjdCIgaHJlZj0iaHR0cHM6Ly9mb250cy5nc3RhdGljLmNvbSIgY3Jvc3NvcmlnaW4vPgo8bGluayBocmVmPSJodHRwczovL2ZvbnRzLmdvb2dsZWFwaXMuY29tL2NzczI/ZmFtaWx5PUNvcm1vcmFudCtHYXJhbW9uZDppdGFsLHdnaHRAMCwzMDA7MCw0MDA7MCw2MDA7MSwzMDA7MSw0MDAmZmFtaWx5PURNK1NhbnM6d2dodEAzMDA7NDAwOzUwMCZkaXNwbGF5PXN3YXAiIHJlbD0ic3R5bGVzaGVldCIvPgo8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9InN0eWxlcy5jc3MiLz4KCjwhLS0gTG9hZCBvcmRlciBtYXR0ZXJzOiBjb25maWcg4oaSIGRhdGEg4oaSIG1vZHVsZXMg4oaSIGFwcCAtLT4KPHNjcmlwdCBzcmM9ImNvbmZpZy5qcyI+PC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJicmVhdGguanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0ic291bmQuanMiPjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0iY2xhdWRlLmpzIj48L3NjcmlwdD4KPC9oZWFkPgo8Ym9keT4KPGRpdiBjbGFzcz0iYXBwIj4KCiAgPGRpdiBjbGFzcz0iaGVhZGVyIj4KICAgIDxkaXYgY2xhc3M9ImhlYWRlci1pbml0aWF0aXZlIiBpZD0iaEluaXRpYXRpdmUiPjwvZGl2PgogICAgPCEtLSBGaXggNjogZmFjaWxpdGF0b3IgcGhvdG8gLS0+CiAgICA8ZGl2IGNsYXNzPSJmYWNpbGl0YXRvci1waG90byI+CiAgICAgIDxpbWcgc3JjPSJodHRwczovL2ltYWdlcy5zcXVhcmVzcGFjZS1jZG4uY29tL2NvbnRlbnQvdjEvNjUxYjhmNmU1ZGNlNTU3MWViNmEzNGUwLzE3MTM5ODQ3OTM1NjktVkdRRTRMVzdVOUtXSkNOSzVPVDgvT21pK0JlbGwrSGVhZHNob3QuanBnIgogICAgICAgICAgIGFsdD0iT21pIEJlbGwiCiAgICAgICAgICAgb25lcnJvcj0idGhpcy5zdHlsZS5kaXNwbGF5PSdub25lJyIKICAgICAgICAgICBjbGFzcz0iZmFjaWxpdGF0b3ItaW1nIi8+CiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImhlYWRlci1uYW1lIiBpZD0iaE5hbWUiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iaGVhZGVyLXN1YiIgaWQ9ImhTdWIiPjwvZGl2PgogIDwvZGl2PgoKICA8IS0tIOKVkOKVkCBTQ1JFRU4gMTogU0VUVVAg4pWQ4pWQIC0tPgogIDxkaXYgaWQ9InNjcmVlbi1zZXR1cCIgY2xhc3M9InNjcmVlbiBhY3RpdmUiPgoKICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICA8ZGl2IGNsYXNzPSJzdGVwLWxhYmVsIj5TdGVwIDEgb2YgMzwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJjYXJkLXRpdGxlIj5XaGF0J3MgeW91ciBuYW1lPzwvZGl2PgogICAgICA8aW5wdXQgY2xhc3M9InRleHQtaW5wdXQiIGlkPSJpbnB1dE5hbWUiIHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSJGaXJzdCBuYW1lIiBvbmlucHV0PSJjaGVja1JlYWR5KCkiLz4KICAgIDwvZGl2PgoKICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICA8ZGl2IGNsYXNzPSJzdGVwLWxhYmVsIj5Zb3VyIGFnZSByYW5nZTwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJjaGlwLWdyaWQiIGlkPSJhZ2VDaGlwcyI+CiAgICAgICAgPGJ1dHRvbiBjbGFzcz0iY2hpcCIgb25jbGljaz0ic2V0QWdlKCcyMHMnLHRoaXMpIj4yMHM8L2J1dHRvbj4KICAgICAgICA8YnV0dG9uIGNsYXNzPSJjaGlwIiBvbmNsaWNrPSJzZXRBZ2UoJzMwcycsdGhpcykiPjMwczwvYnV0dG9uPgogICAgICAgIDxidXR0b24gY2xhc3M9ImNoaXAiIG9uY2xpY2s9InNldEFnZSgnNDBzJyx0aGlzKSI+NDBzPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiBjbGFzcz0iY2hpcCIgb25jbGljaz0ic2V0QWdlKCc1MHMnLHRoaXMpIj41MHM8L2J1dHRvbj4KICAgICAgICA8YnV0dG9uIGNsYXNzPSJjaGlwIiBvbmNsaWNrPSJzZXRBZ2UoJzYwKycsdGhpcykiPjYwKzwvYnV0dG9uPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iYWdlLXdhcm5pbmciIGlkPSJhZ2VXYXJuaW5nIj4KICAgICAgICDimqAgUGxlYXNlIGNvbnN1bHQgeW91ciBkb2N0b3IgYmVmb3JlIHN0YXJ0aW5nIGJyZWF0aHdvcmsgaWYgeW91IGhhdmUgYW55IGNhcmRpb3Zhc2N1bGFyLCByZXNwaXJhdG9yeSwgb3IgYmxvb2QgcHJlc3N1cmUgY29uY2VybnMuCiAgICAgIDwvZGl2PgogICAgPC9kaXY+CgogICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgIDxkaXYgY2xhc3M9InN0ZXAtbGFiZWwiPlN0ZXAgMiBvZiAzIOKAlCBTdHJlc3MgY2hlY2s8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZC10aXRsZSI+SG93IGFyZSB5b3Ugd2Fsa2luZyBpbj88L2Rpdj4KICAgICAgPGJ1dHRvbiBjbGFzcz0ic3RyZXNzLWNoaXAiIG9uY2xpY2s9InNldFN0cmVzcygncmVndWxhdGVkJyx0aGlzKSI+CiAgICAgICAgPHNwYW4gY2xhc3M9ImRvdCIgc3R5bGU9ImJhY2tncm91bmQ6IzZCQUY4NyI+PC9zcGFuPgogICAgICAgIEknbSBnb29kIOKAlCBoZXJlIHRvIG1haW50YWluIG15IGVkZ2UKICAgICAgPC9idXR0b24+CiAgICAgIDxidXR0b24gY2xhc3M9InN0cmVzcy1jaGlwIiBvbmNsaWNrPSJzZXRTdHJlc3MoJ21pbGQnLHRoaXMpIj4KICAgICAgICA8c3BhbiBjbGFzcz0iZG90IiBzdHlsZT0iYmFja2dyb3VuZDojQzlBODRDIj48L3NwYW4+CiAgICAgICAgQSBsaXR0bGUgd291bmQgdXAg4oCUIG5lZWQgdG8gcmVzZXQKICAgICAgPC9idXR0b24+CiAgICAgIDxidXR0b24gY2xhc3M9InN0cmVzcy1jaGlwIiBvbmNsaWNrPSJzZXRTdHJlc3MoJ2hpZ2gnLHRoaXMpIj4KICAgICAgICA8c3BhbiBjbGFzcz0iZG90IiBzdHlsZT0iYmFja2dyb3VuZDojRDQ4MzRBIj48L3NwYW4+CiAgICAgICAgT3ZlcndoZWxtZWQg4oCUIHJ1bm5pbmcgb24gZnVtZXMKICAgICAgPC9idXR0b24+CiAgICAgIDxidXR0b24gY2xhc3M9InN0cmVzcy1jaGlwIiBvbmNsaWNrPSJzZXRTdHJlc3MoJ2NyaXNpcycsdGhpcykiPgogICAgICAgIDxzcGFuIGNsYXNzPSJkb3QiIHN0eWxlPSJiYWNrZ3JvdW5kOiNDMDQ0NEEiPjwvc3Bhbj4KICAgICAgICBPbiB0aGUgZWRnZSDigJQgZXZlcnl0aGluZyBpcyB0b28gbXVjaAogICAgICA8L2J1dHRvbj4KICAgIDwvZGl2PgoKICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICA8ZGl2IGNsYXNzPSJzdGVwLWxhYmVsIj5TdGVwIDMgb2YgMyDigJQgQ2hvb3NlIHlvdXIgcHJhY3RpY2U8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2FyZC10aXRsZSI+V2hhdCBkb2VzIHlvdXIgbmVydm91cyBzeXN0ZW0gbmVlZD88L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2hpcC1ncmlkIiBpZD0idGVjaENoaXBzIj4KICAgICAgICA8YnV0dG9uIGNsYXNzPSJjaGlwIiBvbmNsaWNrPSJzZXRUZWNoKCdib3gnLHRoaXMpIj5Cb3ggQnJlYXRoaW5nPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiBjbGFzcz0iY2hpcCIgb25jbGljaz0ic2V0VGVjaCgnNDc4Jyx0aGlzKSI+NC03LTg8L2J1dHRvbj4KICAgICAgICA8YnV0dG9uIGNsYXNzPSJjaGlwIiBvbmNsaWNrPSJzZXRUZWNoKCduaWRyYScsdGhpcykiPllvZ2EgTmlkcmEgU2NhbjwvYnV0dG9uPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0idGVjaC1kZXNjIiBpZD0idGVjaERlc2MiPlNlbGVjdCBhIHRlY2huaXF1ZSBhYm92ZTwvZGl2PgogICAgICA8ZGl2IGlkPSJ0ZWNoV2FybmluZyIgc3R5bGU9ImRpc3BsYXk6bm9uZTttYXJnaW4tdG9wOjEwcHg7cGFkZGluZzoxMHB4IDE0cHg7Ym9yZGVyLXJhZGl1czoxMHB4O2JhY2tncm91bmQ6cmdiYSgyMDEsMTY4LDc2LDAuMDcpO2JvcmRlcjoxcHggc29saWQgcmdiYSgyMDEsMTY4LDc2LDAuMik7Zm9udC1zaXplOjEycHg7Y29sb3I6I0M5QTg0QztsaW5lLWhlaWdodDoxLjY7Ij48L2Rpdj4KICAgIDwvZGl2PgoKICAgIDwhLS0gRml4IDE6IFNlc3Npb24gcm91bmRzIC0tPgogICAgPGRpdiBjbGFzcz0iY2FyZCI+CiAgICAgIDxkaXYgY2xhc3M9InN0ZXAtbGFiZWwiPkhvdyBtYW55IHJvdW5kcz88L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0iY2hpcC1ncmlkIiBpZD0icm91bmRDaGlwcyI+CiAgICAgICAgPGJ1dHRvbiBjbGFzcz0iY2hpcCBzZWxlY3RlZCIgb25jbGljaz0ic2V0Um91bmRzKDEsdGhpcykiPjEgcm91bmQ8L2J1dHRvbj4KICAgICAgICA8YnV0dG9uIGNsYXNzPSJjaGlwIiBvbmNsaWNrPSJzZXRSb3VuZHMoMix0aGlzKSI+MiByb3VuZHM8L2J1dHRvbj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KCiAgICA8IS0tIEZpeCAyOiBCb3dsIHZvbHVtZSAtLT4KICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICA8ZGl2IGNsYXNzPSJzdGVwLWxhYmVsIj5TaW5naW5nIGJvd2wgdm9sdW1lPC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InZvbC1yb3ciPgogICAgICAgIDxzcGFuIGNsYXNzPSJ2b2wtaWNvbiI+8J+UiDwvc3Bhbj4KICAgICAgICA8aW5wdXQgdHlwZT0icmFuZ2UiIG1pbj0iMC4xIiBtYXg9IjEiIHN0ZXA9IjAuMSIgdmFsdWU9IjAuNyIKICAgICAgICAgICAgICAgb25pbnB1dD0ic2V0Vm9sdW1lKHRoaXMudmFsdWUpIiBjbGFzcz0idm9sLXNsaWRlciIvPgogICAgICAgIDxzcGFuIGNsYXNzPSJ2b2wtbGFiZWwiIGlkPSJ2b2xMYWJlbCI+NzAlPC9zcGFuPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKICAgIDxidXR0b24gY2xhc3M9ImJ0bi1wcmltYXJ5IiBpZD0iYnRuU3RhcnQiIG9uY2xpY2s9InN0YXJ0U2Vzc2lvbigpIiBkaXNhYmxlZD4KICAgICAgQmVnaW4gbXkgc2Vzc2lvbgogICAgPC9idXR0b24+CiAgPC9kaXY+CgogIDwhLS0g4pWQ4pWQIFNDUkVFTiAyOiBCUkVBVEhXT1JLIOKVkOKVkCAtLT4KICA8ZGl2IGlkPSJzY3JlZW4tYnJlYXRoIiBjbGFzcz0ic2NyZWVuIj4KICAgIDxkaXYgY2xhc3M9ImNhcmQiPgogICAgICA8ZGl2IGNsYXNzPSJicmVhdGgtdGVjaC1uYW1lIiBpZD0iYnJlYXRoVGVjaE5hbWUiPjwvZGl2PgogICAgICA8ZGl2IGNsYXNzPSJicmVhdGgtd3JhcCI+CiAgICAgICAgPGRpdiBjbGFzcz0iYnJlYXRoLW91dGVyIj4KICAgICAgICAgIDxkaXYgY2xhc3M9ImJyZWF0aC1yaW5nIiBpZD0iYnJlYXRoUmluZyI+PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJicmVhdGgtY2lyY2xlIiBpZD0iYnJlYXRoQ2lyY2xlIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iYnJlYXRoLXBoYXNlIiBpZD0iYnJlYXRoUGhhc2UiPlJlYWR5PC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJyZWF0aC1jb3VudCIgaWQ9ImJyZWF0aENvdW50Ij7igJQ8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgY2xhc3M9ImJyZWF0aC1wcm9ncmVzcyIgaWQ9ImJyZWF0aFByb2dyZXNzIj48L2Rpdj4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICA8L2Rpdj4KCiAgPCEtLSDilZDilZAgU0NSRUVOIDM6IFNPVU5EIEJPV0wg4pWQ4pWQIC0tPgogIDxkaXYgaWQ9InNjcmVlbi1zb3VuZCIgY2xhc3M9InNjcmVlbiI+CiAgICA8ZGl2IGNsYXNzPSJjYXJkIj4KICAgICAgPGRpdiBjbGFzcz0ic291bmQtd3JhcCI+CiAgICAgICAgPGRpdiBjbGFzcz0ic291bmQtdGl0bGUiPkJlIHN0aWxsLjxici8+TGV0IHRoZSBib3dsIGNhcnJ5IHlvdS48L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJib3dsLXZpc3VhbCI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJib3dsLXJpbmciPjwvZGl2PgogICAgICAgICAgPGRpdiBjbGFzcz0iYm93bC1yaW5nIj48L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9ImJvd2wtcmluZyI+PC9kaXY+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJib3dsLWljb24iPvCfqpg8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJzb3VuZC10aW1lciIgaWQ9InNvdW5kVGltZXIiPjYwPC9kaXY+CiAgICAgICAgPGRpdiBjbGFzcz0ic291bmQtYmFyLXdyYXAiPgogICAgICAgICAgPGRpdiBjbGFzcz0ic291bmQtYmFyIiBpZD0ic291bmRCYXIiIHN0eWxlPSJ3aWR0aDoxMDAlIj48L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzPSJzb3VuZC1pbnN0cnVjdGlvbiI+CiAgICAgICAgICBDbG9zZSB5b3VyIGV5ZXMuPGJyLz5CcmVhdGhlIG5hdHVyYWxseS48YnIvPllvdXIgcHJlc2NyaXB0aW9uIGlzIGJlaW5nIHByZXBhcmVkLgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogIDwvZGl2PgoKICA8IS0tIOKVkOKVkCBTQ1JFRU4gNDogTE9BRElORyDilZDilZAgLS0+CiAgPGRpdiBpZD0ic2NyZWVuLWxvYWRpbmciIGNsYXNzPSJzY3JlZW4iPgogICAgPGRpdiBjbGFzcz0ibG9hZGluZy13cmFwIj4KICAgICAgPGRpdiBjbGFzcz0ibG9hZGluZy1yaW5nIj48L2Rpdj4KICAgICAgPGRpdiBjbGFzcz0ibG9hZGluZy10ZXh0IiBpZD0ibG9hZGluZ1RleHQiPldyaXRpbmcgeW91ciBwcmVzY3JpcHRpb27igKY8L2Rpdj4KICAgIDwvZGl2PgogIDwvZGl2PgoKICA8IS0tIOKVkOKVkCBTQ1JFRU4gNTogUFJFU0NSSVBUSU9OIOKVkOKVkCAtLT4KICA8ZGl2IGlkPSJzY3JlZW4tZG9uZSIgY2xhc3M9InNjcmVlbiI+CgogICAgPCEtLSBGaXggNTogb2ZmbGluZSBub3RpY2UgLS0+CiAgICA8ZGl2IGlkPSJvZmZsaW5lTm90aWNlIiBzdHlsZT0iZGlzcGxheTpub25lO21hcmdpbi1ib3R0b206MTRweDtwYWRkaW5nOjEycHggMTZweDtib3JkZXItcmFkaXVzOjEwcHg7YmFja2dyb3VuZDpyZ2JhKDIwMSwxNjgsNzYsMC4wNyk7Ym9yZGVyOjFweCBzb2xpZCByZ2JhKDIwMSwxNjgsNzYsMC4yKTtmb250LXNpemU6MTJweDtjb2xvcjojQzlBODRDO2xpbmUtaGVpZ2h0OjEuNjsiPgogICAgICDimqEgTm8gaW50ZXJuZXQgY29ubmVjdGlvbiDigJQgc2hvd2luZyBhbiBvZmZsaW5lIHByZXNjcmlwdGlvbi4gWW91ciBuZXh0IHNlc3Npb24gd2lsbCBiZSBmdWxseSBwZXJzb25hbGl6ZWQgYnkgQUkuCiAgICA8L2Rpdj4KICAgIDxkaXYgY2xhc3M9InByZXNjLWNhcmQiPgogICAgICA8ZGl2IGNsYXNzPSJwcmVzYy1uYW1lIiBpZD0icHJlc2NMYWJlbCI+PC9kaXY+CiAgICAgIDxkaXYgY2xhc3M9InByZXNjLWJvZHkiIGlkPSJwcmVzY0JvZHkiPjwvZGl2PgogICAgPC9kaXY+CgogICAgPGRpdiBjbGFzcz0iYWN0aW9uLXJvdyI+CiAgICAgIDxidXR0b24gaWQ9ImJ0bkNvcHkiIG9uY2xpY2s9ImNvcHlQcmVzY3JpcHRpb24oKSI+8J+TiyBDb3B5PC9idXR0b24+CiAgICAgIDxidXR0b24gb25jbGljaz0iZG93bmxvYWRQcmVzY3JpcHRpb24oKSI+4qyHIERvd25sb2FkPC9idXR0b24+CiAgICAgIDxidXR0b24gb25jbGljaz0ic2hhcmVQcmVzY3JpcHRpb24oKSI+4oaXIFNoYXJlPC9idXR0b24+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IGNsYXNzPSJzY2llbmNlLWJveCIgaWQ9InNjaWVuY2VCb3giPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iY29tbXVuaXR5LWNhcmQiIGlkPSJjb21tdW5pdHlDYXJkIj48L2Rpdj4KCiAgICA8YnV0dG9uIGNsYXNzPSJidG4tZ2hvc3QiIG9uY2xpY2s9InJlc2V0QXBwKCkiPlRyeSBhbm90aGVyIHRlY2huaXF1ZTwvYnV0dG9uPgoKICAgIDxkaXYgY2xhc3M9ImZvb3RlciI+CiAgICAgIDxhIGlkPSJmb290ZXJMaW5rIiBocmVmPSIjIiB0YXJnZXQ9Il9ibGFuayI+PC9hPgogICAgPC9kaXY+CiAgPC9kaXY+Cgo8L2Rpdj4KPHNjcmlwdCBzcmM9ImFwcC5qcyI+PC9zY3JpcHQ+CjwvYm9keT4KPC9odG1sPgo="}
+// ============================================================
+// claude.js — Anthropic API call for personalized prescription
+// ============================================================
+
+const CLAUDE_MODEL      = 'claude-sonnet-4-20250514';
+const CLAUDE_MAX_TOKENS = 1000;
+const API_ENDPOINT      = 'https://api.anthropic.com/v1/messages';
+
+const LOADING_MESSAGES = [
+  'Writing your prescription…',
+  'Reading your session…',
+  'Almost ready…',
+  'Preparing your rest plan…',
+];
+
+// Builds the prompt sent to Claude
+function buildPrompt({ name, age, stress, tech, pillar, duration }) {
+  const techContext = {
+    box:       'Box Breathing (4-4-4-4) — a structured, rhythmic technique that regulates the nervous system through equal inhale, hold, exhale, hold counts.',
+    '478':     '4-7-8 Breathing — a vagus nerve activation technique with a long exhale that rapidly shifts the body out of fight-or-flight.',
+    nidra:     'Yoga Nidra body scan — a guided awareness practice that moves attention through the body systematically, releasing held tension and inducing deep rest.',
+    pranayama: 'Nadi Shodhana (alternate nostril breathing) — balances left and right brain hemispheres, clears mental fog, and creates a bridge between action and rest.',
+    sound:     'Sound Healing with singing bowl — the person breathed with the bowl sound, using resonance and vibration to regulate the nervous system without effortful technique.',
+  };
+
+  const pillarContext = {
+    body:      'Their focus is the Body pillar — physical wellbeing, somatic awareness, and treating their body as the foundation of everything else they build.',
+    business:  'Their focus is the Business pillar — performance, leadership capacity, and using rest as a strategic tool to sustain high output.',
+    belonging: 'Their focus is the Belonging pillar — community, connection, and the rest that comes from feeling whole rather than constantly producing.',
+  };
+
+  const ageContext = {
+    '20s': 'in their 20s',
+    '30s': 'in their 30s',
+    '40s': 'in their 40s',
+    '50s': 'in their 50s — use language that honors their experience and wisdom',
+    '60+': '60 or older — acknowledge their body\'s wisdom and keep next steps gentle',
+  };
+
+  const pillarLine = pillar ? `\nPillar focus: ${pillarContext[pillar] || pillar}` : '';
+  const durationLine = duration ? `\nSession duration selected: ${duration} minutes` : '';
+
+  return `You are the AI companion for ${CONFIG.facilitatorName}'s "${CONFIG.initiativeName}" program. ${CONFIG.facilitatorName} is a certified Breathwork facilitator, sound healer, CEO of Black Girl Ventures, and wellness advocate whose core teaching is: rest is not a luxury — it's a performance strategy.
+
+A person just completed a breathwork session followed by 60 seconds of singing bowl sound healing. Write them a warm, grounded, personal rest prescription in ${CONFIG.facilitatorName}'s voice.
+
+Person's name: ${name}
+Age: ${ageContext[age] || age}
+Stress level coming in: ${STRESS_LABELS[stress]}
+Technique they used: ${TECH_FULL[tech]}
+What that technique does: ${techContext[tech]}${pillarLine}${durationLine}
+
+Write a prescription that:
+1. Opens by acknowledging exactly where they were when they started (their stress state) — make them feel seen
+2. Names the specific technique they used and affirms what it did for their body — be precise, not generic
+3. If a pillar focus was selected, weave it naturally into the next steps — Body (physical recovery), Business (performance recharge), Belonging (relational presence)
+4. Gives 2-3 actionable next steps for the next 20-30 minutes, calibrated to their stress level and age
+5. Closes with one powerful sentence in ${CONFIG.facilitatorName}'s voice — the kind that stays with you
+
+IMPORTANT: The prescription must reflect the specific technique they chose. Do not reference Yoga Nidra if they did Box Breathing or 4-7-8. Do not reference breathwork counting if they did Yoga Nidra. Be specific to what they actually did.
+
+Tone: warm but direct. Grounded. Not overly spiritual, not clinical. Like a mentor who knows you and tells the truth. About 180-220 words. No headers, no bullets — flowing prose only.`;
+}
+
+// Fallback if API call fails — technique-aware
+function fallbackPrescription(name, tech) {
+  const techMsg = {
+    box:   'The rhythm you just practiced — four counts in, four held, four out, four held — is one of the most researched tools for nervous system regulation on the planet.',
+    '478': 'That long exhale you just practiced activated your vagus nerve. Your body chemistry literally shifted.',
+    nidra: 'Moving your awareness through your body the way you just did — that\'s not relaxation. That\'s nervous system medicine.',
+  };
+  return `${name}, what you just did took courage — not the dramatic kind, the quiet kind that most leaders never give themselves permission for.\n\n${techMsg[tech] || techMsg.box}\n\nTake the next 20 minutes away from your screen. Drink water. Don't make a single decision. Let the work of that session settle.\n\nRest is not a reward for finishing. It's the fuel that makes finishing possible.`;
+}
+
+// Calls Claude API and returns prescription text
+async function fetchPrescription({ name, age, stress, tech, pillar, duration }) {
+  const response = await fetch(API_ENDPOINT, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({
+      model:      CLAUDE_MODEL,
+      max_tokens: CLAUDE_MAX_TOKENS,
+      messages:   [{ role: 'user', content: buildPrompt({ name, age, stress, tech, pillar, duration }) }],
+    }),
+  });
+
+  if (!response.ok) throw new Error(`API error: ${response.status}`);
+
+  const data = await response.json();
+  const text = data.content?.find(b => b.type === 'text')?.text;
+  if (!text) throw new Error('No text in response');
+  return text;
+}
+
+// Manages loading screen messages while API call runs
+function startLoadingMessages() {
+  let i = 0;
+  const el = document.getElementById('loadingText');
+  if (el) el.textContent = LOADING_MESSAGES[0];
+  return setInterval(() => {
+    i = (i + 1) % LOADING_MESSAGES.length;
+    if (el) el.textContent = LOADING_MESSAGES[i];
+  }, 2200);
+}

@@ -1,1 +1,220 @@
-{"data":"Ly8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Ci8vIFdISVRFLUxBQkVMIENPTkZJRyDigJQgc3dhcCB0aGVzZSB2YWx1ZXMgdG8gcmVicmFuZCBmdWxseQovLyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KY29uc3QgQ09ORklHID0gewogIGZhY2lsaXRhdG9yTmFtZTogICJPbWkgQmVsbCIsCiAgZmFjaWxpdGF0b3JUaXRsZTogIkNlcnRpZmllZCBCcmVhdGh3b3JrICYgWW9nYSBOaWRyYSBGYWNpbGl0YXRvciIsCiAgZmFjaWxpdGF0b3JTaXRlOiAgImh0dHBzOi8vd3d3Lm9taWJlbGwuY29tIiwKICBpbml0aWF0aXZlTmFtZTogICAiQm9keSwgQnVzaW5lc3MgJiBCZWxvbmdpbmciLAogIHRhZ2xpbmU6ICAgICAgICAgICJSZXN0IGlzIG5vdCBhIGx1eHVyeS4gSXQncyBhIHBlcmZvcm1hbmNlIHN0cmF0ZWd5LiIsCiAgaGVyb0hlYWRsaW5lOiAgICAgIllvdSdyZSBub3QgY3JhenkuIiwKICBoZXJvU3VibGluZTogICAgICAiWW91J3JlIGp1c3QgdGlyZWQuIiwKCiAgY29sb3JzOiB7CiAgICBiZzogICAgICAgICAiI0ZBRjdGMiIsCiAgICBiZ0NhcmQ6ICAgICAiI0ZGRkZGRiIsCiAgICBiZ0FsdDogICAgICAiI0YzRURFMyIsCiAgICBhY2NlbnQ6ICAgICAiI0I4ODYwQiIsCiAgICBhY2NlbnRTb2Z0OiAiIzhCNjkxNCIsCiAgICBhY2NlbnRHbG93OiAicmdiYSgxODQsMTM0LDExLDAuMTApIiwKICAgIHRleHQ6ICAgICAgICIjMUExNDEwIiwKICAgIG11dGVkOiAgICAgICIjNkI1RjRFIiwKICAgIGZhaW50OiAgICAgICIjRThERkQwIiwKICAgIGJvcmRlcjogICAgICJyZ2JhKDE4NCwxMzQsMTEsMC4yMCkiLAogICAgc3VjY2VzczogICAgIiMzRDdBNUMiLAogIH0sCgogIGNvbW11bml0eUxhYmVsOiAgICJKb2luIHRoZSBPbWlIb21pZSBsaXN0IiwKICBjb21tdW5pdHlTdWJ0ZXh0OiAiR2V0IGZyZWUgYnJlYXRod29yayBzZXNzaW9ucyAmIHJlc3QgZGlzcGF0Y2hlcyIsCiAgY29tbXVuaXR5UGhvbmU6ICAgIjIwMi05MTgtNDQ4MyIsCiAgY29tbXVuaXR5S2V5d29yZDogIlJFU1QiLAoKICBzY2llbmNlU3RhdDogICAiMjDigJMzMCBtaW4gb2YgWW9nYSBOaWRyYSA9IDLigJM0IGhycyBvZiBzbGVlcC4iLAogIHNjaWVuY2VTb3VyY2U6ICJCYWNrZWQgYnkgbmV1cm9zY2llbmNlLiBUYXVnaHQgYnkgT21pIEJlbGwuIiwKfTsKCg=="}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Body, Business &amp; Belonging — Omi Bell</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="styles.css"/>
+
+<!-- Load order matters: config → data → modules → app -->
+<script src="config.js"></script>
+<script src="breath.js"></script>
+<script src="sound.js"></script>
+<script src="audio.js"></script>
+<script src="claude.js"></script>
+</head>
+<body>
+<div class="app">
+
+  <div class="header">
+    <div class="header-initiative" id="hInitiative"></div>
+    <!-- Fix 6: facilitator photo -->
+    <div class="facilitator-photo">
+      <img src="https://images.squarespace-cdn.com/content/v1/651b8f6e5dce5571eb6a34e0/1713984793569-VGQE4LW7U9KWJCNK5OT8/Omi+Bell+Headshot.jpg"
+           alt="Omi Bell"
+           onerror="this.style.display='none'"
+           class="facilitator-img"/>
+    </div>
+    <div class="header-name" id="hName"></div>
+    <div class="header-sub" id="hSub"></div>
+  </div>
+
+  <!-- ══ SCREEN 1: SETUP ══ -->
+  <div id="screen-setup" class="screen active">
+
+    <div class="card">
+      <div class="step-label">Step 1 of 5</div>
+      <div class="card-title">What's your name?</div>
+      <input class="text-input" id="inputName" type="text" placeholder="First name" oninput="checkReady()"/>
+    </div>
+
+    <div class="card">
+      <div class="step-label">Your age range</div>
+      <div class="chip-grid" id="ageChips">
+        <button class="chip" onclick="setAge('20s',this)">20s</button>
+        <button class="chip" onclick="setAge('30s',this)">30s</button>
+        <button class="chip" onclick="setAge('40s',this)">40s</button>
+        <button class="chip" onclick="setAge('50s',this)">50s</button>
+        <button class="chip" onclick="setAge('60+',this)">60+</button>
+      </div>
+      <div class="age-warning" id="ageWarning">
+        ⚠ Please consult your doctor before starting breathwork if you have any cardiovascular, respiratory, or blood pressure concerns.
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="step-label">Step 2 of 5 — Stress check</div>
+      <div class="card-title">How are you walking in?</div>
+      <button class="stress-chip" onclick="setStress('regulated',this)">
+        <span class="dot" style="background:#6BAF87"></span>
+        I'm good — here to maintain my edge
+      </button>
+      <button class="stress-chip" onclick="setStress('mild',this)">
+        <span class="dot" style="background:#C9A84C"></span>
+        A little wound up — need to reset
+      </button>
+      <button class="stress-chip" onclick="setStress('high',this)">
+        <span class="dot" style="background:#D4834A"></span>
+        Overwhelmed — running on fumes
+      </button>
+      <button class="stress-chip" onclick="setStress('crisis',this)">
+        <span class="dot" style="background:#C0444A"></span>
+        On the edge — everything is too much
+      </button>
+    </div>
+
+    <div class="card">
+      <div class="step-label">Step 3 of 5 — Choose your practice</div>
+      <div class="card-title">What does your nervous system need?</div>
+      <div class="chip-grid" id="techChips">
+        <button class="chip" onclick="setTech('box',this)">Box Breathing</button>
+        <button class="chip" onclick="setTech('478',this)">4-7-8</button>
+        <button class="chip" onclick="setTech('nidra',this)">Yoga Nidra Scan</button>
+        <button class="chip" onclick="setTech('pranayama',this)">Pranayama</button>
+        <button class="chip" onclick="setTech('sound',this)">Sound Healing</button>
+      </div>
+      <div class="tech-desc" id="techDesc">Select a technique above</div>
+      <div id="techWarning" style="display:none;margin-top:10px;padding:10px 14px;border-radius:10px;background:rgba(201,168,76,0.07);border:1px solid rgba(201,168,76,0.2);font-size:12px;color:#C9A84C;line-height:1.6;"></div>
+    </div>
+
+    <!-- Fix 1: Session rounds -->
+    <div class="card">
+      <div class="step-label">How many rounds?</div>
+      <div class="chip-grid" id="roundChips">
+        <button class="chip selected" onclick="setRounds(1,this)">1 round</button>
+        <button class="chip" onclick="setRounds(2,this)">2 rounds</button>
+      </div>
+    </div>
+
+    <!-- Step 4: Pillar -->
+    <div class="card">
+      <div class="step-label">Step 4 of 5 — Your focus</div>
+      <div class="card-title">What are you tending to today?</div>
+      <div class="chip-grid" id="pillarChips">
+        <button class="chip" onclick="setPillar('body',this)">🫀 Body</button>
+        <button class="chip" onclick="setPillar('business',this)">💼 Business</button>
+        <button class="chip" onclick="setPillar('belonging',this)">🤝 Belonging</button>
+      </div>
+    </div>
+
+    <!-- Step 5: Duration -->
+    <div class="card">
+      <div class="step-label">Step 5 of 5 — Session length</div>
+      <div class="card-title">How long do you have?</div>
+      <div class="chip-grid" id="durationChips">
+        <button class="chip selected" onclick="setDuration(7,this)">7 min</button>
+        <button class="chip" onclick="setDuration(10,this)">10 min</button>
+        <button class="chip locked" title="Coming soon — Omi's voice guide">20 min 🔒</button>
+        <button class="chip locked" title="Coming soon — Omi's voice guide">30 min 🔒</button>
+      </div>
+      <div style="margin-top:8px;font-size:12px;color:var(--muted);">🔒 Extended sessions include Omi's voice guide — coming soon</div>
+    </div>
+
+    <!-- Fix 2: Bowl volume -->
+    <div class="card">
+      <div class="step-label">Singing bowl volume</div>
+      <div class="vol-row">
+        <span class="vol-icon">🔈</span>
+        <input type="range" min="0.1" max="1" step="0.1" value="0.7"
+               oninput="setVolume(this.value)" class="vol-slider"/>
+        <span class="vol-label" id="volLabel">70%</span>
+      </div>
+    </div>
+
+    <button class="btn-primary" id="btnStart" onclick="startSession()" disabled>
+      Begin my session
+    </button>
+  </div>
+
+  <!-- ══ SCREEN 2: BREATHWORK ══ -->
+  <div id="screen-breath" class="screen">
+    <div class="card">
+      <div class="breath-tech-name" id="breathTechName"></div>
+      <div class="breath-wrap">
+        <div class="breath-outer">
+          <div class="breath-ring" id="breathRing"></div>
+          <div class="breath-circle" id="breathCircle">
+            <div class="breath-phase" id="breathPhase">Ready</div>
+            <div class="breath-count" id="breathCount">—</div>
+          </div>
+        </div>
+        <div class="breath-progress" id="breathProgress"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ SCREEN 3: SOUND BOWL ══ -->
+  <div id="screen-sound" class="screen">
+    <div class="card">
+      <div class="sound-wrap">
+        <div class="sound-title">Be still.<br/>Let the bowl carry you.</div>
+        <div class="bowl-visual">
+          <div class="bowl-ring"></div>
+          <div class="bowl-ring"></div>
+          <div class="bowl-ring"></div>
+          <div class="bowl-icon">🪘</div>
+        </div>
+        <div class="sound-timer" id="soundTimer">60</div>
+        <div class="sound-bar-wrap">
+          <div class="sound-bar" id="soundBar" style="width:100%"></div>
+        </div>
+        <div class="sound-instruction">
+          Close your eyes.<br/>Breathe naturally.<br/>Your prescription is being prepared.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══ SCREEN 4: LOADING ══ -->
+  <div id="screen-loading" class="screen">
+    <div class="loading-wrap">
+      <div class="loading-ring"></div>
+      <div class="loading-text" id="loadingText">Writing your prescription…</div>
+    </div>
+  </div>
+
+  <!-- ══ SCREEN 5: PRESCRIPTION ══ -->
+  <div id="screen-done" class="screen">
+
+    <!-- Fix 5: offline notice -->
+    <div id="offlineNotice" style="display:none;margin-bottom:14px;padding:12px 16px;border-radius:10px;background:rgba(201,168,76,0.07);border:1px solid rgba(201,168,76,0.2);font-size:12px;color:#C9A84C;line-height:1.6;">
+      ⚡ No internet connection — showing an offline prescription. Your next session will be fully personalized by AI.
+    </div>
+    <div class="presc-card">
+      <div class="presc-name" id="prescLabel"></div>
+      <div class="presc-body" id="prescBody"></div>
+    </div>
+
+    <div class="action-row">
+      <button id="btnCopy" onclick="copyPrescription()">📋 Copy</button>
+      <button onclick="downloadPrescription()">⬇ Download</button>
+      <button onclick="sharePrescription()">↗ Share</button>
+    </div>
+
+    <div class="science-box" id="scienceBox"></div>
+    <div class="community-card" id="communityCard"></div>
+
+    <button class="btn-ghost" onclick="resetApp()">Try another technique</button>
+
+    <div class="footer">
+      <a id="footerLink" href="#" target="_blank"></a>
+    </div>
+  </div>
+
+</div>
+<script src="app.js"></script>
+</body>
+</html>
