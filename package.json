@@ -1,0 +1,17 @@
+{
+  "name": "breathing-bell",
+  "version": "1.0.0",
+  "description": "Breathing Bell - Guided breathwork app",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve",
+    "build": "echo 'Static site - no build needed'",
+    "start": "npx serve"
+  },
+  "keywords": ["breathing", "wellness", "meditation"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+}
